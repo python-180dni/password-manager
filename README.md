@@ -1,3 +1,3 @@
-### Hello, this is my first project ever.
+## Hello, this is my first project ever.
 
-## I hope I'll some day learn python perfectly ;)
+### I hope I'll some day learn python perfectly ;)
